@@ -24,6 +24,7 @@
 }
 .headerset{
     padding: 200px;
+    box-sizing: border-box;
 }
 .headerset h2{
     
@@ -33,5 +34,5 @@
 .headerset h1{
     
     color: white;
-    font-size: 64px;
+    font-size: 82px;
 }

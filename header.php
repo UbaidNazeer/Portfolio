@@ -13,7 +13,7 @@
     <body>
        <div class="header">
        <div class="bgimg">
-           <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+           <nav class="navbar navbar-expand-md bg-dark navbar-dark">
                <div class="container">
                    <a href="http://localhost/portfolio" class="navbar-brand text-warning font-weight-bold">Portfolio</a>
                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navtop">

@@ -4,7 +4,10 @@
 <html>
     <head></head>
     <body>
-        <h1>Body</h1>
+        <div class="container service text-center">
+            <h1>Services</h1>
+            <p>Our services are front end developer 2020.</p>
+        </div>
     </body>
     
 </html>
