@@ -118,7 +118,7 @@
            </div>
        </section>
        <section>
-           <div class="container team text-center">
+           <div class="container team text-center" id="team">
                <h1>Our Team</h1>
                <p>We have a team of professionals.</p>
                <div class="row rowteam">
@@ -149,3 +149,4 @@
     </body>
     
 </html>
+<?php include "footer.php"; ?>

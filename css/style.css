@@ -75,4 +75,20 @@
     font-weight: bold;
 }
 
-
+/*----------------------Team---------------*/
+.team{
+    padding: 50px 0 60px;
+}
+.team h2{
+    font-weight: bolder;
+}
+.figure{
+    margin-top: 30px;
+}
+/*--------------footer---------------------*/
+.footer{
+    height: 20px;
+    }
+.footer h6{
+    line-height: 70px;
+}
