@@ -58,28 +58,92 @@
                <div class="card-body">
                    <h2 class="card-title">Thread</h2>
                    <p class="card-text">Illustration</p>
+                   <a href="#" class="btn btn-primary stretched-link">See Profile</a>
                </div>
                </div>
                </div>
                <div class="col-lg-4 col-md-4 col-sm-4 d-block m-auto">
+           <div class="card">
+               <img class="card-img-top" src="img/portfolio/explore.jpg" alt="card image">
+               <div class="card-body">
+                   <h2 class="card-title">Explore</h2>
+                   <p class="card-text">Graphic</p>
+                   <a href="#" class="btn btn-primary stretched-link">See Profile</a>
+               </div>
+               </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-sm-4 d-block m-auto">
+           <div class="card">
+               <img class="card-img-top img-fluid" src="img/portfolio/finish.jpg" alt="card image">
+               <div class="card-body">
+                   <h2 class="card-title">Finish</h2>
+                   <p class="card-text">Identify</p>
+                   <a href="#" class="btn btn-primary stretched-link">See Profile</a>
+               </div>
+               </div>
+               </div>
+           </div>
+           <div class="row portrow">
+              <div class="col-lg-4 col-md-4 col-sm-4 d-block m-auto">
            <div class="card">
                <img class="card-img-top" src="img/portfolio/Thread.jpg" alt="card image">
                <div class="card-body">
                    <h2 class="card-title">Thread</h2>
                    <p class="card-text">Illustration</p>
+                   <a href="#" class="btn btn-primary stretched-link">See Profile</a>
                </div>
                </div>
                </div>
                <div class="col-lg-4 col-md-4 col-sm-4 d-block m-auto">
            <div class="card">
-               <img class="card-img-top img-fluid" src="img/portfolio/Thread.jpg" alt="card image">
+               <img class="card-img-top" src="img/portfolio/explore.jpg" alt="card image">
                <div class="card-body">
-                   <h2 class="card-title">Thread</h2>
-                   <p class="card-text">Illustration</p>
+                   <h2 class="card-title">Explore</h2>
+                   <p class="card-text">Graphic</p>
+                   <a href="#" class="btn btn-primary stretched-link">See Profile</a>
+               </div>
+               </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-sm-4 d-block m-auto">
+           <div class="card">
+               <img class="card-img-top img-fluid" src="img/portfolio/finish.jpg" alt="card image">
+               <div class="card-body">
+                   <h2 class="card-title">Finish</h2>
+                   <p class="card-text">Identify</p>
+                   <a href="#" class="btn btn-primary stretched-link">See Profile</a>
                </div>
                </div>
                </div>
            </div>
+           </div>
+       </section>
+       <section>
+           <div class="container team text-center">
+               <h1>Our Team</h1>
+               <p>We have a team of professionals.</p>
+               <div class="row rowteam">
+                   <div class="col-lg-4 col-md-4 col-sm-4 col-10 d-block m-auto">
+                       <figure class="figure">
+                           <img src="img/Team/1.jpg" class="figure-img img-fluid rounded-circle" height="240px" width="260px">
+                           <h2>Noman Ejaz</h2>
+                           <p class="figure-caption">Web Developer</p>
+                       </figure>
+                   </div>
+                   <div class="col-lg-4 col-md-4 col-sm-4 col-10 d-block m-auto">
+                       <figure class="figure">
+                           <img src="img/Team/1.jpg" class="figure-img img-fluid rounded-circle" height="240px" width="260px">
+                           <h2>Noman Ejaz</h2>
+                           <p class="figure-caption">Web Developer</p>
+                       </figure>
+                   </div>
+                   <div class="col-lg-4 col-md-4 col-sm-4 col-10 d-block m-auto">
+                       <figure class="figure">
+                           <img src="img/Team/1.jpg" class="figure-img img-fluid rounded-circle" height="240px" width="260px">
+                           <h2>Noman Ejaz</h2>
+                           <p class="figure-caption">Web Developer</p>
+                       </figure>
+                   </div>
+               </div>
            </div>
        </section>
     </body>
