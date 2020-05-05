@@ -19,11 +19,11 @@
     background-image: url(../img/main.jpg);
     background-size: 100% 100%;
     width: 100%;
-    height: 625px;
-    background-attachment: fixed;
+    height: 100%;
+    background-attachment: scroll;
 }
 .headerset{
-    padding: 200px;
+    padding: 300px;
     box-sizing: border-box;
 }
 .headerset h2{
@@ -34,5 +34,33 @@
 .headerset h1{
     
     color: white;
-    font-size: 82px;
+    font-size: 62px;
+}
+/*Service style*/
+.rowsetting{
+    margin-top: 50px;
+    
+}
+.service{
+    padding: 100px 0px 60px;
+    height: 700px;
+}
+.imgsetting{
+    background-color: darkorange;
+    border-radius: 50%;
+    height: 100px;
+    width:100px;
+}
+.fa-shopping-cart{
+    margin-top: 25px;
+}
+.fa-desktop{
+    margin-top: 25px;
+}
+.fa-lock{
+    margin-top: 25px;
+}
+.cl1{
+    border: 2px solid darkorange;
+    
 }
