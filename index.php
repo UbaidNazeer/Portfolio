@@ -47,6 +47,41 @@
                </div>
            </div>
        </section>
+       <section class="portfolio bg-light">
+          <div class="container text-center oportfolio" id="portfolio">
+          <h1>Portfolio</h1>
+          <p>Here is my portfolio..</p>
+          <div class="row portrow">
+              <div class="col-lg-4 col-md-4 col-sm-4 d-block m-auto">
+           <div class="card">
+               <img class="card-img-top" src="img/portfolio/Thread.jpg" alt="card image">
+               <div class="card-body">
+                   <h2 class="card-title">Thread</h2>
+                   <p class="card-text">Illustration</p>
+               </div>
+               </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-sm-4 d-block m-auto">
+           <div class="card">
+               <img class="card-img-top" src="img/portfolio/Thread.jpg" alt="card image">
+               <div class="card-body">
+                   <h2 class="card-title">Thread</h2>
+                   <p class="card-text">Illustration</p>
+               </div>
+               </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-sm-4 d-block m-auto">
+           <div class="card">
+               <img class="card-img-top img-fluid" src="img/portfolio/Thread.jpg" alt="card image">
+               <div class="card-body">
+                   <h2 class="card-title">Thread</h2>
+                   <p class="card-text">Illustration</p>
+               </div>
+               </div>
+               </div>
+           </div>
+           </div>
+       </section>
     </body>
     
 </html>
