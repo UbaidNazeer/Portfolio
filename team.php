@@ -4,7 +4,7 @@
 <html>
     <head></head>
     <body>
-        <h1>Body</h1>
+        <h1>Team</h1>
     </body>
     
 </html>
