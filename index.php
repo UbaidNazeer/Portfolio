@@ -9,7 +9,8 @@
 
     </head>
     <body>
-        <div class="container service text-center">
+       <section>
+        <div class="container service text-center" id="services">
             <h1>Services</h1>
             <p>Our services are front end developer 2020.</p>
             <div class="row rowsetting">
@@ -33,6 +34,7 @@
                 </div>
             </div>
         </div>
+        </section>
     </body>
     
 </html>
